@@ -15,6 +15,9 @@ This repo contains everything you need to transform your Linux Mint desktop into
 
 ## How to Use
 
+> **Note:** All steps below that are shown in gray code blocks should be run in the **Terminal**.
+> You can open it by pressing `Ctrl + Alt + T` or by searching for "Terminal" in the start menu.
+
 1. **Download the Setup Files**
 
     - Click the green **`<> Code`** button at the top of this repo
