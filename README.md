@@ -80,23 +80,23 @@ You should see a dock appear under your Cinnamon panel.
 
 > If some icons are missing, continue to the next step.
 
-10. **Apply Global Theme**
-
-- Open the Mint menu and search for **Global Themes**
-- Go to **Colors** or **Plasma Style**
-- Import and apply the **Midoriya** theme included in the repo
-
-11. **Fix Missing Icons**
+10. **Fix Missing Icons**
 
 ```bash
 sudo apt install papirus-icon-theme hicolor-icon-theme
 ```
 
-> This resolves most folder icon issues.
+> This resolves the folder icon issue.
 
 ---
+11. **Apply Global Theme**
 
-## 🕒 Add Clock Desklet
+- Open the Mint menu and search for **Global Themes**
+- Go to **Colors** or **Plasma Style**
+- Import and apply the **Midoriya** theme included in the repo
+
+
+## Add Clock Desklet
 
 1. Right-click desktop → **Add Desklets**
 2. Download and add the **Timelet** desklet
@@ -109,9 +109,7 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 
 ---
 
-## ✅ Done!
+## Done!
 
 You now have a clean, modern Linux Mint desktop matching my personal setup.  
-Enjoy your new look! 🎉
-
-You now have a clean, modern, and customized Linux Mint desktop. If anything looks off or isn’t working, double-check the file paths and 
+Enjoy your new look!
