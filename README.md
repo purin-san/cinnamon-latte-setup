@@ -96,9 +96,8 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 11. **Apply Global Theme**
 
 - Open the Mint menu and search for **Global Themes**
-- Go to **Colors** or **Plasma Style**
-- Import and apply the **Midoriya** theme included in the repo
-
+- Go to **Plasma Style**
+- Click Get New Plasma Styles and search for Midoriya, then install and apply it
 
 ## Add Clock Desklet
 
