@@ -73,8 +73,8 @@ cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papir
 cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
 cp ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
 cp ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
-sudo cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors /usr/share/icons/
-sudo cp -r ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
+sudo cp -r ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors /usr/share/icons/
+sudo cp ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
 ```
 
 5. **Select Theme in Settings**
