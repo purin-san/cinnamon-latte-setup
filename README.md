@@ -136,11 +136,6 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 >/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/
 >```
 
-**Partly Fixed - Right and Left Click not working for Stock Linux Mint Applications if one or more instances of the Application are running**
-Haven't been able to fix this one properly yet, applications installed by the user themselves don't seem to have this issue. 
-If you use firefox you can fix it for that application by removing it via the software manager and adding it again. You can probably do the same for other applications that come stock with it but I haven't looked into it further.
-I recommend using screen edges or touchscreen gestures to work around this issue. You can find it by typing it in the search bar
-
 ### **Partially Fixed: Right and Left Click Not Working for Stock Linux Mint Applications in Latte Dock**
 
 This issue affects **stock Linux Mint applications** (like **Nemo** and **Firefox**) when one or more instances are running — **right-click and left-click may not work** in **Latte Dock**.
