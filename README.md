@@ -124,9 +124,13 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 ```bash
   cinnamon-session-quit --logout --no-prompt
 ```
-> This should fix the issue where the logout, shutdown, and lock buttons weren't working. Personally, I use the Lock/Logout widget on the top-right dock. I wasn't able to fix it for that specific widget, but since I never use those buttons, I haven't bothered to dig further. If you'd like to remove that top widget, you can do so by editing the dock.  
-
-
+This should fix the issue where the logout, and lock buttons weren't working.   
+Personally, I use the Lock/Logout widget on the top dock. I wasn't able to fix it for that specific widget, but since I never use those buttons, I haven't bothered to dig further.   
+If you'd like to remove that top widget, you can do so by editing the dock.    
+However, you might be able to fix it yourself by editing the widget's QML file. Go to:
+```bash
+/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/
+```
 
 
 ## Done!
