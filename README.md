@@ -53,6 +53,7 @@ If you know better or more stable ways to solve any of the issues mentioned, **p
     - Click the green **`<> Code`** button at the top of this repo
     - Select **Download ZIP**
     - Unzip the file in your **Downloads** folder
+    - Also unzip the file inside the **cinnamon-latte-setup-main** folder
 
 2. **Set the Wallpaper**
 
