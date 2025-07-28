@@ -214,7 +214,7 @@ pkill gnome-terminal
 6. Ctrl + Alt + T. Check if you're using the Kitty Terminal, and use that Terminal for all the following steps**
 > If the default Terminal doesn't change: go to `Preferred Applications` by typing it in the menu search bar. Scroll all the way down, and change terminal to kitty
 
-8. Install fastfetch
+7. Install Fastfetch
 
 ```bash
 sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
@@ -222,13 +222,18 @@ sudo apt update
 sudo apt install fastfetch   
 ```
 
-8. Create the Fastfetch config folder (if it doesn’t exist):
+8. Install Fastcat
+```bash
+git clone --depth 1 https://github.com/m3tozz/FastCat.git && cd FastCat && bash ./fastcat.sh --shell
+```
+
+9. Create the Fastfetch config folder (if it doesn’t exist):
 
 ```bash
 mkdir -p ~/.config/fastfetch
 ```
 
-9. Copy the files into your config directory
+10. Copy the files into your config directory
 
 ```bash
 cp ~/Downloads/cinnamon-latte-setup-main/config.jsonc ~/.config/fastfetch/config.jsonc
