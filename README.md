@@ -226,8 +226,8 @@ mkdir -p ~/.config/fastfetch
 7. **Copy the files into your config directory** 
 
 ```bash
-cp ~/Downloads/fastfetch-main/config.jsonc ~/.config/fastfetch/config.jsonc
-cp ~/Downloads/fastfetch-main/ascii.txt ~/.config/fastfetch/ascii.txt
+cp ~/Downloads/cinnamon-latte-setup-main/config.jsonc ~/.config/fastfetch/config.jsonc
+cp ~/Downloads/cinnamon-latte-setup-main/ascii.txt ~/.config/fastfetch/ascii.txt
 ```
 
 8. **Run Fastfetch** 
