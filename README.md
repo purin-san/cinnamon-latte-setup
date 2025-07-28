@@ -139,7 +139,7 @@ Some of the top Widgets will probably not be working so here's how to fix that:
 
 **If the Battery Widget is displaced:**
 - Right-click on the top dock and press **Edit Dock**
-- Drag the Inline Battery on the top left
+- Drag the Inline Battery to the top left
 
 **If the Digital Clock is the wrong size:**
 - Right-click on the Digital Clock dock and press **Configure Digital Clock**
