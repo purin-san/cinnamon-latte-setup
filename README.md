@@ -126,7 +126,7 @@ You should see a dock appear under your Cinnamon panel.
 - Go to **Layouts Editor** tab, and click on `Import Layout`
 - Choose the included layout file `Used Dock.layout.latte` in the **cinnamon-latte-setup-main folder** and press `Apply`
 - Now select `Used Dock` and press on `Switch`
-- If successful, a top and bottom bar will appear. (They mightmmmm not be visible if you have a window maximized)
+- If successful, a top and bottom bar will appear. (They might not be visible if you have a window maximized)
 - You can now remove the original Cinnamon taskbar by right-clicking on it and select `remove`
 
 > The Top and Bottom bar are set to dodge all windows. If you want to change that, hover around the top or bottom part of the screen (if they're not visible), right click the dock, and select `Edit Dock`. You can now change the visibility settings and other settings if you want. You will need to do this individually for each dock.
