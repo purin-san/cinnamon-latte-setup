@@ -85,7 +85,7 @@ mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 6. **Select Theme in Settings**
 - Click on the Mint homebutton
 - Type **Themes** in the searchbar and open it
-- Click on the **Advanced Settings** button
+- Click on the `Advanced Settings` button
 - Select volantes_light_cursor for Mouse Pointer
 - Select Adapta-Nokto for Applications
 - Select Papirus for Icons
@@ -111,8 +111,8 @@ You should see a dock appear under your Cinnamon panel.
 
 > Some may already be installed by default, check your widget menu if they're all there before continuing with Step 9.
 
-- Right-click the Latte dock → **Add Widgets**
-- Click the star icon to **Get New Widgets**
+- Right-click the Latte dock and click on `Add Widgets`
+- Click the star icon to `Get New Widgets`
 - Search and install the following (top ZIP if multiple options):
     - `Big Sur - Inline Battery`
     - `Currently Playing`
@@ -177,7 +177,7 @@ killall latte-dock && latte-dock &
 
 To match your login screen with your desktop setup, do the following:
 
-1. **Open the `Start Menu** and search for **Login Window**
+1. **Open the Start Menu** and search for **Login Window**
 2. Go to the **Appearance** tab
 3. Under **Background**, click the image preview  
    → Select the included `wallpaper.jpg` from your Downloads folder
