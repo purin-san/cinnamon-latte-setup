@@ -74,6 +74,7 @@ You should see a dock appear under your Cinnamon panel.
     - `Currently Playing` (top ZIP if multiple options)
     - `Plasma Drawer`
     - `Latte Spacer`
+    - `SCP Menu`
 
 9. **Load Custom Dock Layout**
 
