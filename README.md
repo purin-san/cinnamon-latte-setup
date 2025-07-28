@@ -64,30 +64,20 @@ If you know better or more stable ways to solve any of the issues mentioned, **p
     - Open your file manager
     - Click the **View** button → enable **Show Hidden Files**
 
-4. **Install Icons and Cursors**
+4. **Moving Everything to the right directory**
 
 ```bash
 cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus ~/.icons/
 cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Dark ~/.icons/
 cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Light ~/.icons/
 cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
-sudo cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors /usr/share/icons/
-```
-
-5. **Install Themes**
-
-```bash
 cp ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
 cp ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
-```
-
-6. **Install Wallpaper**
-
-```bash
+sudo cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors /usr/share/icons/
 sudo cp ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
 ```
 
-7. **Select Theme in Settings**
+5. **Select Theme in Settings**
 - Click on the Mint homebutton
 - Type **Themes** in the searchbar and open it
 - Click on the `Advanced Settings` button
@@ -97,14 +87,14 @@ sudo cp ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgroun
 - Select `Orchidea` for Desktop
 
   
-8. **Install Latte Dock**
+6. **Install Latte Dock**
 
 ```bash
 sudo apt update
 sudo apt install latte-dock
 ```
 
-9. **Launch Latte Dock**
+7. **Launch Latte Dock**
 
 ```bash
 latte-dock
@@ -112,7 +102,7 @@ latte-dock
 
 You should see a dock appear under your Cinnamon panel.
 
-10. **Add Necessary Widgets**
+8. **Add Necessary Widgets**
 
 - Right-click the Latte dock and click on `Add Widgets`
 - Click the star icon to `Get New Widgets`
@@ -123,9 +113,9 @@ You should see a dock appear under your Cinnamon panel.
     - `Latte Spacer`
     - `Simple Customizable Power Menu`
  
- > Check your widget menu if they're all there before continuing with Step 11.
+ > Check your widget menu if they're all there before continuing with Step 9.
 
-11. **Load Custom Dock Layout**
+9. **Load Custom Dock Layout**
 
 - Right-click Latte dock, and click on `Configure Latte`
 - Go to **Layouts Editor** tab, and click on `Import Layout`
@@ -138,7 +128,7 @@ You should see a dock appear under your Cinnamon panel.
 
 > There's a chance that the folder icon on your bottom dock isn't rendering. The fix for this issue, and other bugs encounter later in the process, are shown under the "Fix Common Bugs" part at the bottom of the README.md
 
-12. **Fix Widgets**
+10. **Fix Widgets**
 
 Some of the top Widgets will probably not be working, so here's how to fix that:
 
@@ -161,7 +151,7 @@ killall latte-dock && latte-dock &
 - If the `Disk Usage` widget that you added is still on the dock, you can delete it by right-clicking on the dock, click on `Edit Dock`, and hover over the widget you want to remove.
   
 ---
-13. **Apply Global Theme**
+11. **Apply Global Theme**
 
 - Open the KDE menu (lower left) and search for **Global Themes**
 - Go to **Plasma Style**
