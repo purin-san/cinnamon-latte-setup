@@ -192,48 +192,48 @@ To match your login screen with your desktop setup, do the following:
 
 # Fastfetch Config + Custom ASCII Logo
 
-1. **Install Kitty Terminal** 
+1. Install Kitty Terminal
 
 ```bash
 sudo apt update  
 sudo apt install kitty
 ```
 
-2. **Set Kitty Terminal as default** 
+2. Set Kitty Terminal as default
 
 ```bash
 sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator ~/.local/kitty.app/bin/kitty 50
 sudo update-alternatives --config x-terminal-emulator
 ```
-3. **Choose Kitty from the list, and type in the correct number**
+3. Choose Kitty from the list, and type in the correct number
     
-4. **Close your Terminal:
+4. Close your Terminal with:
 ```bash
 killall gnome-terminal
 ```
 6. Ctrl + Alt + T. Check if you're using the Kitty Terminal, and use that Terminal for all the following steps**
 
-7. **Install fastfetch**
+7. Install fastfetch
 
 ```bash
 sudo apt update  
 sudo apt install fastfetch   
 ```
 
-8. **Create the Fastfetch config folder** (if it doesn’t exist):
+8. Create the Fastfetch config folder (if it doesn’t exist):
 
 ```bash
 mkdir -p ~/.config/fastfetch
 ```
 
-9. **Copy the files into your config directory** 
+9. Copy the files into your config directory
 
 ```bash
 cp ~/Downloads/cinnamon-latte-setup-main/config.jsonc ~/.config/fastfetch/config.jsonc
 cp ~/Downloads/cinnamon-latte-setup-main/ascii.txt ~/.config/fastfetch/ascii.txt
 ```
 
-10. **Run Fastfetch** 
+10. Run Fastfetch
 
 ```bash
 fastfetch
