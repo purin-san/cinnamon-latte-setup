@@ -124,7 +124,8 @@ You should see a dock appear under your Cinnamon panel.
 
 - Right-click Latte dock → **Configure Latte**
 - Go to **Layouts** tab → click **Import Layout**
-- Choose the included layout file
+- Choose the included layout file and press **Apply**
+- Now select **Used Dock** and press on **Switch**
 - If successful, a top bar will appear — you can now remove the original Cinnamon taskbar
 
 > There's a high chance that the folder icon on your bottom dock isnt rendering. The fix for this issue and other bugs encounter later in the process are shown under the "Fix Common Bugs" part
