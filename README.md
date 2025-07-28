@@ -308,13 +308,14 @@ echo "background #28353b" >> ~/.config/kitty/kitty.conf && killall -SIGUSR1 kitt
 
 ## Fix Common Bugs
 
-**Fix Missing Icons**
+**Fix Missing Icons:**
 
 ```bash
 sudo apt install papirus-icon-theme hicolor-icon-theme
 ```
-  
-**Fix Logout and Lock Screen**
+---
+
+**Fix Logout and Lock Screen:**
 
 1. Right Click on SCP Menu on the bottom dock and click on "Configure SCP Menu"
 2. Replace the command for "Lock Screen" with:
@@ -336,8 +337,9 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 >```bash
 >/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/
 >```
+---
 
-### **Partially Fixed: Right and Left Click Not Working for Stock Linux Mint Applications in Latte Dock**
+**Partially Fixed: Right and Left Click Not Working for Stock Linux Mint Applications in Latte Dock**
 
 This issue affects **stock Linux Mint applications** (like **Nemo** and **Firefox**) when one or more instances are running.
 
