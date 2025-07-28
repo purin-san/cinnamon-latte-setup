@@ -17,16 +17,16 @@ This repo contains everything you need to transform your Linux Mint desktop into
 
 **Installing Latte Dock and mixing KDE components with the Cinnamon desktop environment can cause unexpected bugs, visual glitches, and instability.**
 
-Always make a **backup of your system or use a virtual machine** if you're experimenting with custom setups like this.
+Always make a **backup of your system** if you're experimenting with custom setups like this.
 
- If you're looking for a stable experience with this kind of look and feel, consider using a Linux distribution that uses **KDE Plasma by default**, such as:
+If you're looking for a stable experience with this kind of look and feel, consider using a Linux distribution that uses **KDE Plasma by default**, such as:
  
  - **Kubuntu**
  - **Fedora KDE Spin**
  - **Neon KDE**
  - **openSUSE KDE**
  
- These are better suited for running Latte Dock and KDE widgets out of the box.
+These are better suited for running Latte Dock and KDE widgets out of the box.
 
 ---
 
@@ -36,7 +36,7 @@ I'm very new to Linux, I've been using it for **about two weeks** and have **no 
 
 Many of the solutions here were found through trial and error or searching online.
  
-If you know better or more stable ways to solve any of the issues mentioned, **please open an issue or pull request** on this GitHub repository — your help would be really appreciated!
+If you know better or more stable ways to solve any of the issues mentioned, **please open an issue or pull request** on this GitHub repository, your help would be really appreciated!
 
 ---
 
