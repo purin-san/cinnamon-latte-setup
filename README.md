@@ -85,7 +85,7 @@ mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 6. **Install Wallpaper**
 
 ```bash
-sudo mv ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/
+sudo mv ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
 ```
 
 7. **Select Theme in Settings**
