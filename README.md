@@ -212,8 +212,9 @@ sudo update-alternatives --config x-terminal-emulator
 pkill gnome-terminal
 ```
 6. Ctrl + Alt + T. Check if you're using the Kitty Terminal, and use that Terminal for all the following steps**
+> If the default Terminal doesn't change: go to `Preferred Applications` by typing it in the menu search bar. Scroll all the way down, and change terminal to kitty
 
-7. Install fastfetch
+8. Install fastfetch
 
 ```bash
 sudo apt update  
