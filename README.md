@@ -131,7 +131,7 @@ You should see a dock appear under your Cinnamon panel.
 
 > The Top and Bottom bar will probably be hiding. If you want to change that, hover around the top or bottom part of the screen, right click the dock, and select `Edit Dock`. You can now change the visibility settings and other settings if you want. You will need to do this individually for each dock.
 
-> There's a high chance that the folder icon on your bottom dock isnt rendering. The fix for this issue and other bugs encounter later in the process are shown under the "Fix Common Bugs" part
+> There's a high chance that the folder icon on your bottom dock isnt rendering. The fix for this issue, and other bugs encounter later in the process, are shown under the "Fix Common Bugs" part.
 
 11. **Fix Widgets**
 
