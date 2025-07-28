@@ -21,7 +21,7 @@ This repo contains everything you need to transform your Linux Mint desktop into
 
 Users should always have a **backup of their system**.
 
-If you're looking for a stable experience with this kind of look and feel, consider using a Linux distribution that uses **KDE Plasma by default**, such as:
+If you're looking for a stable experience with this kind of look and feel, consider using a Linux distribution that uses **KDE Plasma by default**, such as but not limited to:
  
  - **Kubuntu**
  - **Fedora KDE**
