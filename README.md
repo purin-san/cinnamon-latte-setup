@@ -143,7 +143,7 @@ Some of the top Widgets will probably not be working so here's how to fix that:
 
 **If the Digital Clock is the wrong size:**
 - Right-click on the Digital Clock dock and press `Configure Digital Clock`
-- Scroll down and choose `Choose Style`
+- Scroll down and click on `Choose Style`
 - Choose your preferred text size
 
 **If the System Monitoring widgets are not shown / not shown correctly:**
