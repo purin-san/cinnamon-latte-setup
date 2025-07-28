@@ -67,25 +67,24 @@ If you know better or more stable ways to solve any of the issues mentioned, **p
 4. **Install Icons and Cursors**
 
 ```bash
-mkdir -p ~/.icons
-mv ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus ~/.icons/
-mv ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Dark ~/.icons/
-mv ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Light ~/.icons/
-mv ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
+cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus ~/.icons/
+cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Dark ~/.icons/
+cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Light ~/.icons/
+cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
+sudo cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors /usr/share/icons/
 ```
 
 5. **Install Themes**
 
 ```bash
-mkdir -p ~/.themes
-mv ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
-mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
+cp ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
+cp ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 ```
 
 6. **Install Wallpaper**
 
 ```bash
-sudo mv ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
+sudo cp ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
 ```
 
 7. **Select Theme in Settings**
