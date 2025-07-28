@@ -109,8 +109,6 @@ You should see a dock appear under your Cinnamon panel.
 
 9. **Add Necessary Widgets**
 
-> Some may already be installed by default, check your widget menu if they're all there before continuing with Step 9.
-
 - Right-click the Latte dock and click on `Add Widgets`
 - Click the star icon to `Get New Widgets`
 - Search and install the following (top ZIP if multiple options):
@@ -119,6 +117,8 @@ You should see a dock appear under your Cinnamon panel.
     - `Plasma Drawer`
     - `Latte Spacer`
     - `Simple Customizable Power Menu`
+ 
+ > Check your widget menu if they're all there before continuing with Step 10.
 
 10. **Load Custom Dock Layout**
 
