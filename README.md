@@ -135,7 +135,7 @@ You should see a dock appear under your Cinnamon panel.
 
 11. **Fix Widgets**
 
-Some of the top Widgets will probably not be working so here's how to fix that:
+Some of the top Widgets will probably not be working, so here's how to fix that:
 
 **If the Battery Widget is displaced:**
 - Right-click on the top dock and press `Edit Dock`
