@@ -77,7 +77,7 @@ mv ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
 ```bash
 mkdir -p ~/.themes
 mv ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
-mv ~/Downloads/cinnamon-latte-setup-main/OrchideaDock ~/.themes/
+mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 ```
 
 6. **Install Latte Dock**
