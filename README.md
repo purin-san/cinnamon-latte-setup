@@ -83,15 +83,7 @@ You should see a dock appear under your Cinnamon panel.
 - Choose the included layout file
 - If successful, a top bar will appear — you can now remove the original Cinnamon taskbar
 
-> If some icons are missing, continue to the next step.
-
-10. **Fix Missing Icons**
-
-```bash
-sudo apt install papirus-icon-theme hicolor-icon-theme
-```
-
-> This resolves the folder icon issue.
+> There's a high chance that the folder icon on your bottom dock isnt rendering. The fix for this issue and other bugs encounter later in the process are shown under the "Fix Common Bugs" part
 
 ---
 11. **Apply Global Theme**
@@ -112,6 +104,30 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 5. Drag the clock to your desired desktop location
 
 ---
+
+## Fix Common Bugs
+
+**Fix Missing Icons**
+
+```bash
+sudo apt install papirus-icon-theme hicolor-icon-theme
+```
+  
+**Fix Logout and Lock Screen**
+
+1. Right Click on SCP Menu on the bottom dock and click on "Configure SCP Menu"
+2. Replace the command for "Lock Screen" with:
+```bash
+   cinnamon-screensaver-command -l
+```
+3. Replace the command for "Log Out" with:
+```bash
+  cinnamon-session-quit --logout --no-prompt
+```
+> This should fix the issue where the logout, shutdown, and lock buttons weren't working. Personally, I use the Lock/Logout widget on the top-right dock. I wasn't able to fix it for that specific widget, but since I never use those buttons, I haven't bothered to dig further. If you'd like to remove that top widget, you can do so by editing the dock.  
+
+
+
 
 ## Done!
 
