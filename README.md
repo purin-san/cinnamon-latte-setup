@@ -80,14 +80,24 @@ mv ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
 mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 ```
 
-6. **Install Latte Dock**
+6. **Select Theme in Settings**
+- Click on the Mint homebutton
+- Type **Themes** in the searchbar and open it
+- Click on the **Advanced Settings** button
+- Select volantes_light_cursor for Mouse Pointer
+- Select Adapta-Nokto for Applications
+- Select Papirus for Icons
+- Select Orchidea for Desktop
+
+  
+7. **Install Latte Dock**
 
 ```bash
 sudo apt update
 sudo apt install latte-dock
 ```
 
-7. **Launch Latte Dock**
+8. **Launch Latte Dock**
 
 ```bash
 latte-dock
@@ -95,7 +105,7 @@ latte-dock
 
 You should see a dock appear under your Cinnamon panel.
 
-8. **Add Necessary Widgets**
+9. **Add Necessary Widgets**
 
 > Some may already be installed by default, check your widget menu if they're all there before continuing with Step 9.
 
@@ -116,7 +126,7 @@ You should see a dock appear under your Cinnamon panel.
     - `SCP Menu`
     - `Search`
 
-9. **Load Custom Dock Layout**
+10. **Load Custom Dock Layout**
 
 - Right-click Latte dock → **Configure Latte**
 - Go to **Layouts** tab → click **Import Layout**
