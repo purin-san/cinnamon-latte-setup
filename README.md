@@ -158,7 +158,7 @@ killall latte-dock && latte-dock &
 
 - Open the Mint menu and search for **Global Themes**
 - Go to **Plasma Style**
-- Click Get New Plasma Styles and search for Midoriya, then install and apply it
+- Click `Get New Plasma Styles` and search for `Midoriya`, then install and apply it
 
 ## Add Clock Desklet
 
