@@ -129,7 +129,7 @@ You should see a dock appear under your Cinnamon panel.
 - If successful, a top and bottom bar will appear.
 - You can now remove the original Cinnamon taskbar by right-clicking on it and select `remove`
 
-> The Top and Bottom bar will probably be hiding, if you want to change that, hover around the top or bottom part of the screen, right click the dock, and select **Edit Dock**, you can now change the visibility settings and other settings if you want. You will need to do this individually for each dock.
+> The Top and Bottom bar will probably be hiding. If you want to change that, hover around the top or bottom part of the screen, right click the dock, and select `Edit Dock`. You can now change the visibility settings and other settings if you want. You will need to do this individually for each dock.
 
 > There's a high chance that the folder icon on your bottom dock isnt rendering. The fix for this issue and other bugs encounter later in the process are shown under the "Fix Common Bugs" part
 
