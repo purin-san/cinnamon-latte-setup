@@ -147,8 +147,8 @@ Some of the top Widgets will probably not be working, so here's how to fix that:
 - Choose your preferred text size
 
 **If the System Monitoring widgets are not shown / not shown correctly:**
-- Add the `Disk Usage` widget to the top bar and select `Configure Disk Usage`
-- Select `Get New Display Styles`, and Install `Colored Text` by gernperl
+- Add the `Disk Usage` widget to the top bar and select `Configure Disk Usage` by right-clicking on it in the dock.
+- Select `Get New Display Styles`, and install `Colored Text` by gernperl
 - Restart Latte-Dock:
 ```bash
 killall latte-dock && latte-dock &
