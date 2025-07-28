@@ -67,12 +67,12 @@ If you know better or more stable ways to solve any of the issues mentioned, **p
 4. **Moving Everything to the right directory**
 
 ```bash
-cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus ~/.icons/
-cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Dark ~/.icons/
-cp ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Light ~/.icons/
-cp ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
-cp ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
-cp ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
+cp -r ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus ~/.icons/
+cp -r ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Dark ~/.icons/
+cp -r ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders/Papirus-Light ~/.icons/
+cp -r ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
+cp -r ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
+cp -r ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 sudo cp -r ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors /usr/share/icons/
 sudo cp ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/linuxmint/
 ```
