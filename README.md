@@ -6,8 +6,8 @@ This repo contains everything you need to transform your Linux Mint desktop into
 
 ## Files Included
 
-- Wallpaper image
-- Custom Latte Dock layout
+- Wallpaper image (`Wallpaper.jpg`)
+- Custom Latte Dock layout (`Used Dock.layout.latte`)
 - Icon and cursor themes (`Papirus`, `volantes_light_cursors`)
 - GTK and Plasma themes (`Adapta-Nokto`, `OrchideaDock`)
 - My Fastfetch configuration file with custom modules and colors. (`config.jsonc`)
