@@ -94,7 +94,7 @@ You should see a dock appear under your Cinnamon panel.
 
 8. **Add Necessary Widgets**
 
-> Some may already be installed by default, check your widget menu if they're all there before continuing with step 9
+> Some may already be installed by default, check your widget menu if they're all there before continuing with Step 9.
 
 - Right-click the Latte dock → **Add Widgets**
 - Click the star icon to **Get New Widgets**
