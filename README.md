@@ -144,7 +144,7 @@ You should see a dock appear under your Cinnamon panel.
 
 ---
 
-### Login Window
+## Login Window
 
 To match your login screen with your desktop setup, do the following:
 
