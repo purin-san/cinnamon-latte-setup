@@ -85,8 +85,6 @@ You should see a dock appear under your Cinnamon panel.
     - `Latte Spacer`
     - `SCP Menu`
     - `Search`
- 
-> If you can't find them they're probably already in your widget menu
 
 9. **Load Custom Dock Layout**
 
