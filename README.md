@@ -158,7 +158,7 @@ killall latte-dock && latte-dock &
 ---
 11. **Apply Global Theme**
 
-- Open the Mint menu and search for **Global Themes**
+- Open the KDE menu (lower left) and search for **Global Themes**
 - Go to **Plasma Style**
 - Click `Get New Plasma Styles` and search for `Midoriya`, then install and apply it
 
