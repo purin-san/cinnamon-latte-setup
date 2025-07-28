@@ -356,7 +356,7 @@ You can restore click functionality for **Firefox** by:
 
 #### **Other Stock Applications**
 
-A similar approach *might* work for other stock apps, but this I haven't tested it.
+A similar approach might work for other stock apps, but I haven't tested this.
 
 ---
 
@@ -372,4 +372,6 @@ Until a proper fix is available, use **screen edges** or **touchscreen gestures*
 ## Done!
 
 You now have a clean, modern Linux Mint desktop matching my personal setup.  
-Enjoy your new look!
+Enjoy the new look!
+
+If you have any questions or issues, I'm happy to help!
