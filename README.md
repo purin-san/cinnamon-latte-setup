@@ -86,10 +86,10 @@ mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 - Click on the Mint homebutton
 - Type **Themes** in the searchbar and open it
 - Click on the `Advanced Settings` button
-- Select volantes_light_cursor for Mouse Pointer
-- Select Adapta-Nokto for Applications
-- Select Papirus for Icons
-- Select Orchidea for Desktop
+- Select `volantes_light_cursor` for Mouse Pointer
+- Select `Adapta-Nokto` for Applications
+- Select `Papirus` for Icons
+- Select `Orchidea` for Desktop
 
   
 7. **Install Latte Dock**
