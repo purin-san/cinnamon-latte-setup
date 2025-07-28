@@ -344,25 +344,15 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 This issue affects **stock Linux Mint applications** (like **Nemo** and **Firefox**) when one or more instances are running.
 
 > **User-installed applications** (e.g., installed via `.deb`, `flatpak`, or manually) **do not have this issue**.
-
----
-
-#### **Temporary Fix for Firefox**
-
+  
 You can restore click functionality for **Firefox** by:
-
+  
 1. **Removing** it via **Software Manager**
 2. **Reinstalling** it again from Software Manager
-
----
-
-#### **Other Stock Applications**
-
+  
 A similar approach might work for other stock apps, but I haven't tested this.
-
----
-
-### **Recommended Workaround**
+  
+**Recommended Workaround**
 
 Until a proper fix is available, use **screen edges** or **touchscreen gestures** to open or switch applications.
 
