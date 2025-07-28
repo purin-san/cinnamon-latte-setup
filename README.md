@@ -1,4 +1,4 @@
-# Make Linux Mint Beautiful (My Custom Setup)
+# Make Linux Mint Beautiful
 
 This repo contains everything you need to transform your Linux Mint desktop into a cleaner, more modern look using Latte Dock, custom themes, icons, and widgets.
 
