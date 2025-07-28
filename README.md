@@ -82,7 +82,13 @@ mv ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
 mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 ```
 
-6. **Select Theme in Settings**
+6. **Install Wallpaper**
+
+```bash
+sudo mv ~/Downloads/cinnamon-latte-setup-main/Wallpaper.jpg /usr/share/backgrounds/
+```
+
+7. **Select Theme in Settings**
 - Click on the Mint homebutton
 - Type **Themes** in the searchbar and open it
 - Click on the `Advanced Settings` button
@@ -92,14 +98,14 @@ mv ~/Downloads/cinnamon-latte-setup-main/Orchidea ~/.themes/
 - Select `Orchidea` for Desktop
 
   
-7. **Install Latte Dock**
+8. **Install Latte Dock**
 
 ```bash
 sudo apt update
 sudo apt install latte-dock
 ```
 
-8. **Launch Latte Dock**
+9. **Launch Latte Dock**
 
 ```bash
 latte-dock
@@ -107,7 +113,7 @@ latte-dock
 
 You should see a dock appear under your Cinnamon panel.
 
-9. **Add Necessary Widgets**
+10. **Add Necessary Widgets**
 
 - Right-click the Latte dock and click on `Add Widgets`
 - Click the star icon to `Get New Widgets`
@@ -118,9 +124,9 @@ You should see a dock appear under your Cinnamon panel.
     - `Latte Spacer`
     - `Simple Customizable Power Menu`
  
- > Check your widget menu if they're all there before continuing with Step 10.
+ > Check your widget menu if they're all there before continuing with Step 11.
 
-10. **Load Custom Dock Layout**
+11. **Load Custom Dock Layout**
 
 - Right-click Latte dock, and click on `Configure Latte`
 - Go to **Layouts Editor** tab, and click on `Import Layout`
@@ -133,7 +139,7 @@ You should see a dock appear under your Cinnamon panel.
 
 > There's a chance that the folder icon on your bottom dock isn't rendering. The fix for this issue, and other bugs encounter later in the process, are shown under the "Fix Common Bugs" part.
 
-11. **Fix Widgets**
+12. **Fix Widgets**
 
 Some of the top Widgets will probably not be working, so here's how to fix that:
 
@@ -156,7 +162,7 @@ killall latte-dock && latte-dock &
 - If the `Disk Usage` widget that you added is still on the dock, you can delete it by right-clicking on the dock, click on `Edit Dock`, and hover over the widget you want to remove.
   
 ---
-11. **Apply Global Theme**
+13. **Apply Global Theme**
 
 - Open the KDE menu (lower left) and search for **Global Themes**
 - Go to **Plasma Style**
