@@ -122,12 +122,12 @@ You should see a dock appear under your Cinnamon panel.
 
 10. **Load Custom Dock Layout**
 
-- Right-click Latte dock → **Configure Latte**
-- Go to **Layouts** tab → click **Import Layout**
-- Choose the included layout file and press **Apply**
-- Now select **Used Dock** and press on **Switch**
+- Right-click Latte dock, and click on `Configure Latte`
+- Go to **Layouts** tab, and click on `Import Layout`
+- Choose the included layout file and press `Apply`
+- Now select `Used Dock` and press on `Switch`
 - If successful, a top and bottom bar will appear.
-- You can now remove the original Cinnamon taskbar by right-clicking on it and select **remove**
+- You can now remove the original Cinnamon taskbar by right-clicking on it and select `remove`
 
 > The Top and Bottom bar will probably be hiding, if you want to change that, hover around the top or bottom part of the screen, right click the dock, and select **Edit Dock**, you can now change the visibility settings and other settings if you want. You will need to do this individually for each dock.
 
@@ -138,17 +138,17 @@ You should see a dock appear under your Cinnamon panel.
 Some of the top Widgets will probably not be working so here's how to fix that:
 
 **If the Battery Widget is displaced:**
-- Right-click on the top dock and press **Edit Dock**
+- Right-click on the top dock and press `Edit Dock`
 - Drag the Inline Battery to the top left
 
 **If the Digital Clock is the wrong size:**
-- Right-click on the Digital Clock dock and press **Configure Digital Clock**
-- Scroll down and choose **Choose Style**
+- Right-click on the Digital Clock dock and press `Configure Digital Clock`
+- Scroll down and choose `Choose Style`
 - Choose your preferred text size
 
 **If the System Monitoring widgets are not shown / not shown correctly:**
-- Add the **Disk Usage** widget to the top bar and select **Configure Disk Usage**
-- Select **Get New Display Styles**, and Install **Colored Text** by gernperl
+- Add the `Disk Usage` widget to the top bar and select `Configure Disk Usage`
+- Select `Get New Display Styles`, and Install `Colored Text` by gernperl
 - Restart Latte-Dock:
 ```bash
 killall latte-dock && latte-dock &
@@ -162,9 +162,9 @@ killall latte-dock && latte-dock &
 
 ## Add Clock Desklet
 
-1. Right-click desktop → **Add Desklets**
-2. Download and add the **Timelet** desklet
-3. In **Manage**, click on it and press the **`+`** button to enable it
+1. Right-click desktop and click on `Add Desklets`
+2. Download and add the `Timelet` desklet
+3. In `Manage`, click on it and press the **`+`** button to enable it
 4. Right-click the clock to configure it (e.g., set transparency to 100%)
 
 > If it appears blue, that will fix itself once you fully close all settings windows.
@@ -177,7 +177,7 @@ killall latte-dock && latte-dock &
 
 To match your login screen with your desktop setup, do the following:
 
-1. **Open the Start Menu** and search for **Login Window**
+1. **Open the `Start Menu** and search for **Login Window**
 2. Go to the **Appearance** tab
 3. Under **Background**, click the image preview  
    → Select the included `wallpaper.jpg` from your Downloads folder
