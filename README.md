@@ -186,14 +186,15 @@ killall latte-dock && latte-dock &
 To match your login screen with your desktop setup, do the following:
 
 1. **Open the Start Menu** and search for **Login Window**
-2. Go to the **Appearance** tab
-3. Under **Background**, click the image preview  
+2. If asked for `Run as root` click on `Ignore` and continue
+3. Go to the **Appearance** tab
+4. Under **Background**, click the image preview  
    → Select the included `wallpaper.jpg` from your Downloads folder
-4. Scroll down to **Icon Theme**  
+5. Scroll down to **Icon Theme**  
    → Select `Papirus`  
-5. Scroll further down to **Mouse Cursor**  
+6. Scroll further down to **Mouse Cursor**  
    → Select `volantes_light_cursors` 
-6. Click **Apply** to save changes
+7. Click **Apply** to save changes
 
 > **Log out or reboot** to see the updated login screen.
 
