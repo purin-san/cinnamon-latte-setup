@@ -209,7 +209,7 @@ sudo update-alternatives --config x-terminal-emulator
     
 4. Close your Terminal with:
 ```bash
-killall x-terminal-emulator
+pkill gnome-terminal
 ```
 6. Ctrl + Alt + T. Check if you're using the Kitty Terminal, and use that Terminal for all the following steps**
 
