@@ -67,14 +67,26 @@ You should see a dock appear under your Cinnamon panel.
 
 8. **Add Necessary Widgets**
 
+> Some may already be installed by default, check you're widget menu if they're all there before continuing with step 9
+
 - Right-click the Latte dock → **Add Widgets**
 - Click the star icon to **Get New Widgets**
-- Search and install the following:
+- Search and install the following (top ZIP if multiple options):
     - `Mac OSX Inline Battery`
-    - `Currently Playing` (top ZIP if multiple options)
+    - `Digital Clock`
+    - `Disk Usage`
+    - `Memory Usage`
+    - `Total CPU Use`
+    - `Currently Playing`
+    - `Bluetooth`
+    - `System Tray`
+    - `Lock/Logout`
     - `Plasma Drawer`
     - `Latte Spacer`
     - `SCP Menu`
+    - `Search`
+ 
+> If you can't find them they're probably already in your widget menu
 
 9. **Load Custom Dock Layout**
 
