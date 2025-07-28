@@ -115,18 +115,10 @@ You should see a dock appear under your Cinnamon panel.
 - Click the star icon to **Get New Widgets**
 - Search and install the following (top ZIP if multiple options):
     - `Mac OSX Inline Battery`
-    - `Digital Clock`
-    - `Disk Usage`
-    - `Memory Usage`
-    - `Total CPU Use`
     - `Currently Playing`
-    - `Bluetooth`
-    - `System Tray`
-    - `Lock/Logout`
     - `Plasma Drawer`
     - `Latte Spacer`
-    - `SCP Menu`
-    - `Search`
+    - `Simple Customizable Power Menu`
 
 10. **Load Custom Dock Layout**
 
