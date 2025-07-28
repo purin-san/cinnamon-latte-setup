@@ -126,7 +126,8 @@ You should see a dock appear under your Cinnamon panel.
 - Go to **Layouts** tab → click **Import Layout**
 - Choose the included layout file and press **Apply**
 - Now select **Used Dock** and press on **Switch**
-- If successful, a top bar will appear — you can now remove the original Cinnamon taskbar
+- If successful, a top and bottom bar will appear.
+- You can now remove the original Cinnamon taskbar by right-clicking on it and select **remove**
 
 > There's a high chance that the folder icon on your bottom dock isnt rendering. The fix for this issue and other bugs encounter later in the process are shown under the "Fix Common Bugs" part
 
