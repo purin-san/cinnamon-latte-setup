@@ -68,16 +68,16 @@ If you know better or more stable ways to solve any of the issues mentioned, **p
 
 ```bash
 mkdir -p ~/.icons
-mv ~/Downloads/mint-beautiful-main/Papirus ~/.icons/
-mv ~/Downloads/mint-beautiful-main/volantes_light_cursors ~/.icons/
+mv ~/Downloads/cinnamon-latte-setup-main/papirus-icon-theme-yellow-folders ~/.icons/
+mv ~/Downloads/cinnamon-latte-setup-main/volantes_light_cursors ~/.icons/
 ```
 
 5. **Install Themes**
 
 ```bash
 mkdir -p ~/.themes
-mv ~/Downloads/mint-beautiful-main/Adapta-Nokto ~/.themes/
-mv ~/Downloads/mint-beautiful-main/OrchideaDock ~/.themes/
+mv ~/Downloads/cinnamon-latte-setup-main/Adapta-Nokto ~/.themes/
+mv ~/Downloads/cinnamon-latte-setup-main/OrchideaDock ~/.themes/
 ```
 
 6. **Install Latte Dock**
