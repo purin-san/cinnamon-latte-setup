@@ -309,7 +309,7 @@ You can restore click functionality for **Firefox** by:
 
 #### **Other Stock Applications**
 
-A similar approach *might* work for other stock apps, but this hasn't been fully tested yet.
+A similar approach *might* work for other stock apps, but this I haven't tested it.
 
 ---
 
