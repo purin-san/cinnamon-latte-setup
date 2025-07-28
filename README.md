@@ -32,7 +32,7 @@ These are better suited for running Latte Dock and KDE widgets out of the box.
 
 ---
 
-### Disclaimer
+## Disclaimer
 
 I'm very new to Linux, I've been using it for **about two weeks** and have **no prior experience with coding or scripting**.
 
