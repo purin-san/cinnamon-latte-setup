@@ -15,7 +15,7 @@ This repo contains everything you need to transform your Linux Mint desktop into
 
 # Important Notice
 
-**Installing Latte Dock and mixing KDE components with the Cinnamon desktop environment (used in Linux Mint) can cause unexpected bugs, visual glitches, and instability.**
+**Installing Latte Dock and mixing KDE components with the Cinnamon desktop environment can cause unexpected bugs, visual glitches, and instability.**
 
 Always make a **backup of your system or use a virtual machine** if you're experimenting with custom setups like this.
 
