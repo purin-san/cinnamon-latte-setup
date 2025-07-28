@@ -123,8 +123,8 @@ You should see a dock appear under your Cinnamon panel.
 10. **Load Custom Dock Layout**
 
 - Right-click Latte dock, and click on `Configure Latte`
-- Go to **Layouts** tab, and click on `Import Layout`
-- Choose the included layout file and press `Apply`
+- Go to **Layouts Editor** tab, and click on `Import Layout`
+- Choose the included layout file `Used Dock.layout.latte` in the **cinnamon-latte-setup-main folder** and press `Apply`
 - Now select `Used Dock` and press on `Switch`
 - If successful, a top and bottom bar will appear.
 - You can now remove the original Cinnamon taskbar by right-clicking on it and select `remove`
