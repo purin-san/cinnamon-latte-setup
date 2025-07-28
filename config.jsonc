@@ -1,0 +1,112 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "~/.config/fastfetch/ascii.txt",
+    "color": {
+        "1": "38;2;255;209;220"
+    }
+    },
+    "display": {
+        "separator": " "
+    },
+    "modules": [
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        {
+            "type": "os",
+            "key": " ",
+            "keyColor": "38;2;152;255;152",  // = color4
+        },
+        {
+            "type": "kernel",
+            "key": " ",
+            "keyColor": "38;2;152;255;152",
+        },
+        {
+            "type": "packages",
+            "key": " ",
+            "keyColor": "38;2;152;255;152",  
+        },
+        {
+            "type": "shell",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "wm",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "cursor",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "terminalfont",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "uptime",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "datetime",
+            "format": "{1}-{3}-{11}",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "media",
+            "key": "󰝚 ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "player",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "CPU",
+            "key": "⚙ ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "GPU",
+            "key": " ",
+            "keyColor": "38;2;152;255;152", 
+        },
+        {
+            "type": "memory",
+            "key": "󰍛 ",
+            "keyColor": "38;2;152;255;152"
+        },
+                {
+            "type": "monitor",
+            "key": "🖼 ",
+            "keyColor": "38;2;152;255;152",
+        },
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+
+        ]
+}
