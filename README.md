@@ -138,7 +138,7 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 
 ### **Partially Fixed: Right and Left Click Not Working for Stock Linux Mint Applications in Latte Dock**
 
-This issue affects **stock Linux Mint applications** (like **Nemo** and **Firefox**) when one or more instances are running.**
+This issue affects **stock Linux Mint applications** (like **Nemo** and **Firefox**) when one or more instances are running.
 
 > **User-installed applications** (e.g., installed via `.deb`, `flatpak`, or manually) **do not have this issue**.
 
