@@ -136,6 +136,9 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 >/usr/share/plasma/plasmoids/org.kde.plasma.lock_logout/contents/ui/
 >```
 
+**Not Fixed Yet - Right and Left Click not working for Stock Linux Mint Applications if one or more instances of the Application are running**
+Haven't been able to fix this one yet, applications installed by the user themselves don't seem to have this issue. 
+If you use firefox you can fix it for that application by removing it via the software manager and adding it again.
 
 ## Done!
 
