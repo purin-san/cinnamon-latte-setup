@@ -22,7 +22,7 @@ Users should always have a **backup of their system**.
 If you're looking for a stable experience with this kind of look and feel, consider using a Linux distribution that uses **KDE Plasma by default**, such as:
  
  - **Kubuntu**
- - **Fedora KDE Spin**
+ - **Fedora KDE**
  - **Neon KDE**
  - **openSUSE KDE**
  
