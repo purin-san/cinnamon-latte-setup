@@ -379,7 +379,7 @@ A similar approach might work for other stock apps, but I haven't tested this.
   
 **Recommended Workaround**
 
-Until a proper fix is available, use **screen edges** or **touchscreen gestures** to open or switch applications.
+Until a proper fix is available, use **Hot Corners** or **Gestures** to open or switch applications.
 
 > To enable: open the **Start Menu** and search for them
 
