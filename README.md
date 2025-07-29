@@ -155,7 +155,7 @@ Some of the top Widgets will probably not be working, so here's how to fix that:
 ```bash
 killall latte-dock && latte-dock &
 ```
-- If the `Disk Usage` widget that you added is still on the dock, you can delete it by right-clicking on the dock, click on `Edit Dock`, and hover over the widget you want to remove.
+> If the `Disk Usage` widget that you added is still on the dock, you can delete it by right-clicking on the dock, click on `Edit Dock`, and hover over the widget you want to remove.
   
 ---
 11. **Apply Global Theme**
