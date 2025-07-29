@@ -188,11 +188,20 @@ To match your login screen with your desktop setup, do the following:
    
 > Log out will probably not work, the fix can be found under `Fix Common Bugs` at the bottom of the README.md
 
+---
+
 ## Firefox Theme
 To match your Firefox theme with the theme on your PC:
 1. Open Firefox and go to the tab **Extensions and themes** or use `Ctrl + Shift + A`
 2. Type in the search bar: `green`
 3. Scroll down until you find the theme made by user **gobbe**
+4. Open a new Firefox tab and press the customization button on the lower right.
+5. You can add the Wallpaper.jpg if you want.
+6. For some search engines like for example **DuckDuckGo** you can add a personal theme color instead of dark or light mode to fully match the Firefox bar on top
+7. I use the following colors in my Search settings:
+ **Background Color** `#262f32`
+ **Header Color** `#304545`
+ **HOver, Module, and Dropdown Background Color** `#304545`
 
 ---
 
