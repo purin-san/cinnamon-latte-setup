@@ -102,6 +102,13 @@ latte-dock
 
 You should see a dock appear under your Cinnamon panel.
 
+> Launching Latte Dock will probably cause the following warning:
+> ```bash
+> Gtk-WARNING **: Theme parsing error: gtk.css:7470:228: Missing closing bracket for :not()
+>```
+> At line 7470, character 228, there's a :not() selector that's missing a closing bracket.
+> This is nothing detrimental, and can be ignored for now. (Currently too busy to add a fix to the guide, will add later)
+
 8. **Add Necessary Widgets**
 
 - Right-click the Latte dock and click on `Add Widgets`
