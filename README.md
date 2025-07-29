@@ -374,7 +374,7 @@ You can restore click functionality for **Firefox** by:
   
 1. **Removing** it via **Software Manager**
 2. **Unpin** from the Dock
-3. **Reinstalling** it again from Software Manager (If System Package doesn't work, try Flatpak
+3. **Reinstalling** it again from Software Manager (If System Package doesn't work, try Flatpak)
   
 A similar approach might work for other stock apps, but I haven't tested this.
   
