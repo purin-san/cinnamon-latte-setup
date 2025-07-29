@@ -222,12 +222,7 @@ sudo apt update
 sudo apt install fastfetch   
 ```
 
-8. Install Fastcat
-
-```bash
-git clone --depth 1 https://github.com/m3tozz/FastCat.git && cd FastCat && bash ./fastcat.sh --shell
-```
-9. Install Nerd Font for Icons
+8. Install Nerd Font for Icons
 
 ```bash
 mkdir -p ~/.local/share/fonts
@@ -237,13 +232,13 @@ unzip Meslo.zip
 fc-cache -fv
 ```
 
-10. Create the Fastfetch config folder (if it doesn’t exist):
+9. Create the Fastfetch config folder (if it doesn’t exist):
 
 ```bash
 mkdir -p ~/.config/fastfetch
 ```
 
-11. Copy the files into your config directory
+10. Copy the files into your config directory
 
 ```bash
 cp ~/Downloads/cinnamon-latte-setup-main/config.jsonc ~/.config/fastfetch/config.jsonc
@@ -255,6 +250,7 @@ cp ~/Downloads/cinnamon-latte-setup-main/ascii.txt ~/.config/fastfetch/ascii.txt
 ```bash
 fastfetch
 ```
+
 ## Fastfetch ASCII Art Customization
 
 To replace the logo with your own custom ASCII art:
@@ -272,6 +268,12 @@ xed ~/.config/fastfetch/ascii.txt
 ```bash
 fastfetch
 ```
+
+> For more customization you can also install Fastcat: https://github.com/m3tozz/FastCat
+>
+> ```bash
+> git clone --depth 1 https://github.com/m3tozz/FastCat.git && cd FastCat && bash ./fastcat.sh --shell
+> ```
 
 ## Fastfetch Color Customization
 
