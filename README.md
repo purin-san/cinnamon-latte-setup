@@ -342,6 +342,8 @@ sudo apt install papirus-icon-theme hicolor-icon-theme
 
 1. Right Click on SCP Menu on the bottom dock and click on "Configure SCP Menu"
 2. Replace the command for "Lock Screen" with:
+> You might need to check the boxes that remain unticked on the left column to find Lock Screen & Logout
+
 ```bash
    cinnamon-screensaver-command -l
 ```
