@@ -317,7 +317,8 @@ Use the following code in kitty and choose a value between 0.0 and 1.0 (I used 0
 ```bash
 echo "background_opacity 0.8" >> ~/.config/kitty/kitty.conf && killall -SIGUSR1 kitty
 ```
-
+> You might need to restart Kitty for the opacity setting to take effect
+  
 ## Terminal color:
 
 Use the following code in kitty and use a Hex code for the color you want to use (in the code example the hex code = #28353b, which is a dark-cyan-gray color).
