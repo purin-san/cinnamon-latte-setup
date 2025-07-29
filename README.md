@@ -223,24 +223,34 @@ sudo apt install fastfetch
 ```
 
 8. Install Fastcat
+
 ```bash
 git clone --depth 1 https://github.com/m3tozz/FastCat.git && cd FastCat && bash ./fastcat.sh --shell
 ```
+9. Install Nerd Font for Icons
 
-9. Create the Fastfetch config folder (if it doesn’t exist):
+```bash
+mkdir -p ~/.local/share/fonts
+cd ~/.local/share/fonts
+wget https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Meslo.zip
+unzip Meslo.zip
+fc-cache -fv
+```
+
+10. Create the Fastfetch config folder (if it doesn’t exist):
 
 ```bash
 mkdir -p ~/.config/fastfetch
 ```
 
-10. Copy the files into your config directory
+11. Copy the files into your config directory
 
 ```bash
 cp ~/Downloads/cinnamon-latte-setup-main/config.jsonc ~/.config/fastfetch/config.jsonc
 cp ~/Downloads/cinnamon-latte-setup-main/ascii.txt ~/.config/fastfetch/ascii.txt
 ```
 
-10. Run Fastfetch
+12. Run Fastfetch
 
 ```bash
 fastfetch
