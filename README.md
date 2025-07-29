@@ -163,6 +163,7 @@ killall latte-dock && latte-dock &
 - Open the KDE menu (lower left) and search for **Global Themes**
 - Go to **Plasma Style**
 - Click `Get New Plasma Styles` and search for `Midoriya`, then install and apply it
+> This should make the docks green. If it doesn't, open dock settings with **Edit Dock** go to the **Appearance** tab, and check if Palette is set to follow Plasma Theme Colors.
 
 ## Add Clock Desklet
 
